@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 This project focuses on predicting student performance based on factors such as **study hours, sleep hours, and attendance** using Machine Learning techniques.
-
+ 
 The goal is to understand how different factors affect academic performance and build a model that can make accurate predictions.
 
 ---
